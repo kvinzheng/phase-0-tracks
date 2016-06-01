@@ -8,3 +8,4 @@ version control is so cool   did i fix this yet
 * What is a branch and why would you use one?
 * What is a commit? What makes a good commit message?
 * What is a merge conflict?
+conflict
